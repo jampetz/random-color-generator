@@ -5,6 +5,7 @@
 ### Features:
 
 - enter HEX-color value or randomly generate one to get different shades of specified color;
+- clicking on color will copy its value in clipboard;
 - useState;
 - useEffect;
 - conditional rendering;
