@@ -1,6 +1,7 @@
 # Random color generator
 
 ## [Live instance](https://jam-random-color-gen.netlify.app/)
+![image](https://i.imgur.com/1QVOuRx.png)
 
 ### Features:
 
